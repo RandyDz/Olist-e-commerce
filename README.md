@@ -12,3 +12,6 @@ mkdir dashboard
 mkdir data
 ```
 ## Run Streamlit app
+```
+https://olist-e-commerce-f6uvppsyzfbca9a5ghx52q.streamlit.app/
+```
