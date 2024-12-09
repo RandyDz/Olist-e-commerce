@@ -13,5 +13,5 @@ mkdir data
 ```
 ## Run Streamlit app
 ```
-https://olist-e-commerce-f6uvppsyzfbca9a5ghx52q.streamlit.app/
+https://submissiontest-bqtrutaeaardeq4wjjcmu5.streamlit.app/
 ```
